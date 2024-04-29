@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>확신없는 랜덤 명언 v2</h1>
+      <h1>확신넘치는 랜덤 명언</h1>
       <h2>
         {displayedText
           ? displayedText
